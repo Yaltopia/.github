@@ -6,7 +6,6 @@ We are Yaltopia (partners with Addis Tec) who aim to deliver reliable and intuit
 
 Want to know more about US? [Check out our portfolio.](https://yaltopia.github.io/Yaltopia/)
 
-## 📝 Latest Blog Posts
 
 <br>
 
