@@ -1,4 +1,4 @@
-[![YALTOPIA BANNER](./assets/Yaltopia.png)](https://braydoncoyer.dev)
+[![YALTOPIA BANNER](/assets/Yaltopia.png)](https://tech.yaltopia.com)
 
 WELCOME 👋
 
