@@ -2,9 +2,9 @@
 
 WELCOME 👋
 
-We are Yaltopia (partners with Addis Tec) who aim to deliver reliable and intuitive software. 
+We are Yaltopia who aim to deliver reliable and intuitive software. 
 
-Want to know more about US? [Check out our portfolio.](https://yaltopia.github.io/Yaltopia/)
+Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com)
 
 
 <br>
@@ -152,7 +152,7 @@ Want to know more about US? [Check out our portfolio.](https://yaltopia.github.i
 
 > *"You guys delivered what I needed, what I desperately needed in a quarter of the time I gave you."*
 >
-> <p> Abbey Mamo</p>
+> <p> Abiy Mamo</p>
 > <p> CEO Mamokacha PLC </p>
 
 
