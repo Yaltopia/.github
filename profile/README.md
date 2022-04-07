@@ -4,7 +4,7 @@ WELCOME 👋
 
 We are Yaltopia who aim to deliver reliable and intuitive software. 
 
-Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com)
+Want to know more about US? [Check out our portfolio.](https://yaltopiatech.netlify.app/portfolio)
 
 
 <br>
