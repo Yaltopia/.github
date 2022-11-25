@@ -63,32 +63,6 @@ Want to know more about US? [Check out our portfolio.](https://yaltopiatech.netl
 
 <br>
 
-### `AMANUEL AGEGNEHU BEKELE`
-<br>
-
-<a href="https://github.com/AmanuelAgegnehuBekele">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelAgegnehuBekele&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/AmanuelAgegnehuBekele">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AmanuelAgegnehuBekele&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-### `ABEL ALEMU JOTIE`
-<br>
-
-<a href="https://github.com/AbelAlemu155">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelAlemu155&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/AbelAlemu155">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AbelAlemu155&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
