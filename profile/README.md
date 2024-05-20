@@ -1,67 +1,16 @@
-[![YALTOPIA BANNER](https://raw.githubusercontent.com/Yaltopia/.github/main/profile/assets/Yaltopia.png)](https://tech.yaltopia.com)
+[![YALTOPIA BANNER](https://github.com/Yaltopia/.github/blob/7ca94ce72de42d1ac280d6a9ba9f84beb10cdd65/profile/assets/result.png)](https://tech.yaltopia.com)
 
 WELCOME 👋
 
 We are Yaltopia who aim to deliver reliable and intuitive software. 
 
-Want to know more about US? [Check out our portfolio.](https://yaltopiatech.netlify.app/portfolio)
+Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com/portfolio)
 
 
 <br>
 
 
-<br>
 
-## 📌 Team Members GitHub Stats
-### `KEROD FRESENBET GEBREMEDHIN`
-<br>
-
-<a href="https://github.com/Kerod-Fresenbet-Gebremedhin2660">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerod-Fresenbet-Gebremedhin2660&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Kerod-Fresenbet-Gebremedhin2660">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kerod-Fresenbet-Gebremedhin2660&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-### `SAMUEL TARIKU FANTAYE`
-<br>
-
-<a href="https://github.com/SamuelTariku">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTariku&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SamuelTariku">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SamuelTariku&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-### `YARED GIRMA DEYASO`
-<br>
-
-<a href="https://github.com/yaredgdb123">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaredgdb123&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/yaredgdb123">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yaredgdb123&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-### `KIRUBEL KIBRU MESFIN`
-<br>
-
-<a href="https://github.com/kirukib">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirukib&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/kirukib">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kirukib&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
 
 <h3>Technologies we work with</h3>
 <p>
