@@ -1,6 +1,6 @@
 [![YALTOPIA BANNER](https://github.com/Yaltopia/.github/blob/7ca94ce72de42d1ac280d6a9ba9f84beb10cdd65/profile/assets/result.png)](https://tech.yaltopia.com)
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=yaltopia&style=flat-square"></h2>
+<h2>About Us <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=yaltopia&style=flat-square"></h2>
 
 
 
@@ -50,7 +50,7 @@
 
 <br>
 
-<h3>ERP Systems We Build On!</h3>
+<h3>🖥️ ERP Systems We Build On!</h3>
 <p>
   
   <img alt="ERPNext" src="https://img.shields.io/badge/ERPNext-0089FF.svg?style=for-the-badge&logo=ERPNext&logoColor=white" />
@@ -63,4 +63,15 @@
 <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<h3> 📱 Social media</h3>
+<p>
+    <a href="https://twitter.com/yaltopiatech">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    </a>
+    <a href="https://www.linkedin.com/company/yaltopiatech">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a>
+   
 </p>
