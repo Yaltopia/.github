@@ -84,7 +84,7 @@ Want to know more about US? [Check out our portfolio.](https://yaltopiatech.netl
 <details>
 <summary>More Skills</summary>
 <br>
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br>
 
