@@ -1,16 +1,13 @@
 [![YALTOPIA BANNER](https://github.com/Yaltopia/.github/blob/7ca94ce72de42d1ac280d6a9ba9f84beb10cdd65/profile/assets/result.png)](https://tech.yaltopia.com)
 
-<h1> Welcome to Yaltopia Tech </h1>
-
-<p>We are Yaltopia who aim to deliver reliable and intuitive software.</p>
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=yaltopia&style=flat-square"></h2>
 
 
-Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com/portfolio)
+
+<p align="justify">We are an up and coming technology firm run by a group of highly skilled software developers. We are a digital transformation consultancy and software development company that provide cutting edge engineering solutions that helps companies and enterprise clients untangle complex issues so that they emerge victorious during their day to day business activities and digital evolution journey.</p>
 
 
 <br>
-
-
 
 
 <h3>Technologies we work with</h3>
