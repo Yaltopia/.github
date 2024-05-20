@@ -46,7 +46,7 @@ Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com
    <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
     <img alt="GoLand" src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" />
      <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-     <img alt="Sequelize" src="(https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+     <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </p>
 
 
@@ -56,6 +56,8 @@ Want to know more about US? [Check out our portfolio.](https://tech.yaltopia.com
 <h3>ERP Systems We Build On!</h3>
 <p>
   
+  <img alt="ERPNext" src="https://img.shields.io/badge/ERPNext-0089FF.svg?style=for-the-badge&logo=ERPNext&logoColor=white" />
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white" />
 </p>
 
 <h3> 🎛️ Operating System</h3>
